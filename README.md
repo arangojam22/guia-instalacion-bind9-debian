@@ -1,3 +1,4 @@
+<details>
 <summary><h2><b> 💡BIND9-DEBIAN </b></h2></summary>
 
 # Guía de instalación y configuración de BIND9 en Debian
