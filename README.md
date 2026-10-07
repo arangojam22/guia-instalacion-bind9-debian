@@ -1,3 +1,5 @@
+<summary><h2><b> 💡BIND9-DEBIAN </b></h2></summary>
+
 # Guía de instalación y configuración de BIND9 en Debian
 
 Esta guía documenta una práctica académica de instalación, configuración, diagnóstico y validación de un servidor DNS BIND9 en Debian 13 dentro de VirtualBox.
